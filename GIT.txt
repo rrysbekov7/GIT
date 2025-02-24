@@ -97,4 +97,7 @@ git commit - m message -> создание коммита
 git checkout commit hash -> переход в определенную версию проекта по хэшу коммита - 5символов
 git checkout branch name -> переход в определенную версию проекта по названию ветки
 
+git log - показывает историю всех коммитов
+git commit -m "First Commit"
+
 
