@@ -100,4 +100,13 @@ git checkout branch name -> переход в определенную верс�
 git log - показывает историю всех коммитов
 git commit -m "First Commit"
 
+git push
+git pull
 
+git remote add origin url
+git branch -a
+
+git clone url
+
+origin - название удаленнго репозитория
+git push -u origin branch
