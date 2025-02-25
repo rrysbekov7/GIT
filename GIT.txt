@@ -110,3 +110,6 @@ git clone url
 
 origin - название удаленнго репозитория
 git push -u origin branch
+
+git remote -v
+git branch -vv
